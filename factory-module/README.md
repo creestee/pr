@@ -1,3 +1,0 @@
-# Dining-Hall Module
-
-## WIP
